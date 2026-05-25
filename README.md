@@ -64,7 +64,3 @@ Having a development background before going full offensive security was one of 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Labeeb_Sabbah-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/labeeb-sabbah/)
 [![Email](https://img.shields.io/badge/Email-labeebmuath2003@gmail.com-D14836?style=flat&logo=gmail)](mailto:labeebmuath2003@gmail.com)
-
----
-
-*"Offensive security isn't about the syllabus — it's about the methodology and the mindset you build to find a way through when anything gets in your way."*
