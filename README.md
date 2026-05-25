@@ -1,6 +1,6 @@
 # Hey, I'm Labeeb 👋
 
-Penetration Tester from Amman, Jordan. I find the gaps before the bad guys do.
+I'm a Penetration Tester - I find the gaps before the bad guys do.
 
 ---
 
